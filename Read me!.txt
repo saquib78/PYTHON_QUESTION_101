@@ -1,0 +1,200 @@
+
+Question (01)  < How to detect Positive and Negative Numbers. >
+
+Question (02)  < How to check for Even and odd Numbers. >
+
+Question (03)  < How to check for Greatest of 3 Numbers. >
+
+Question (04)  < How to check for divisibility of a Number. >
+
+Question (05)  < How to convert from Celsius to Fahrenheit. >
+
+Question (06)  < How to convert from Fahrenheit to Celsius. >
+
+Question (07)  < How to create a calendar. >
+
+Question (08)  < How to calculate Mass, Density and Volume. >
+
+Question (09)  < How to determine the quadrant of a point. >
+
+Question (10)  < How to determine if a Triangle exist. >
+
+Question (11)  < How to check for Leap year. >
+
+Question (12)  < How to check if a point belongs to Circle. >
+
+Question (13)  < How to create quadratic Equation. >
+
+Question (14)  < How to make ques of Random number. >
+
+Question (15)  < How to print out the ASCII Table. >
+
+Question (16)  < How to create a Multiplication Table using while loop. >
+
+Question (17)  < How to create Multiplication Table using for loop. >
+
+Question (18)  < How to convert from base 2 to 9. >
+
+Question (19)  < How to build a simple Calculator. >
+
+Question (20)  < Number of digits in an Integer. >
+
+Question (21)  < How to get Sum and Product of digits. >
+
+Question (22)  < How to make a Binary search of number in an array. >
+
+Question (23)  < How to sum of N series of an element. >
+
+Question (24)  < How to get value of Even and Odd digits. >
+
+Question (25)  < How to get a Factorial using a while loop. >
+
+Question (26)  < How to get Factorial using for loop. >
+
+Question (27)  < How to create a Fibonacci Sequence. >
+
+Question (28)  < How to get the value of Fibonacci Element. >
+
+Question (29)  < How to get find the Greatest Common Divisor. >
+
+Question (30)  < How to maximum value of a floating point number. >
+
+Question (31)  < How to get Prime and Complex Numbers. >
+
+Question (32)  < Quadratic Equation with Solutions at specified Range of Coefficient. >
+
+Question (33)  < How to Reverse Numbers. >
+
+Question (34)  < How to expand Strings of Alphabet. >
+
+Question (35)  < How to Replace a Substring of a String. >
+
+Question (36)  < How to select Integers from String. >
+
+Question (37)  < How to sort words according to their length. >
+
+Question (38)  < How to find the longest word in a String. >
+
+Question (39)  < How to get Percentage of Uppercase and Lowercase. >
+
+Question (40)  < How to check for String Palindrome. >
+
+Question (41)  < How to generate Random numbers using Arrays. >
+
+Question (42)  < How to get the Maximum Element in an Array. >
+
+Question (43)  < How to get the Minimum Element in an Array. >
+
+Question (44)  < How to get the Number of Even and Odd numbers. >
+
+Question (45)  < How to get Positive numbers out of Negative Numbers. >
+
+Question (46)  < How to get numbers greater than the average of an Array. >
+
+Question (47)  < How to Replace list-items with -1, 0, 1. >
+
+Question (48)  < How to check for File Extension. >
+
+Question (49)  < How to remove symbols from Text. >
+
+Question (50)  < How to get Intersection of list using for loop. >
+
+Question (51)  < Simple Intersection of List. >
+
+Question (52)  < Longest ordered sequence in ascending order. >
+
+Question (53)  < How to get the most occurrence Element. >
+
+Question (54)  < How to bubble sort elements of an Array. >
+
+Question (55)  < How to sort Array using Selection sorting. >
+
+Question (56)  < How to generate Matrix of Random numbers. >
+
+Question (57)  < How to get the rows and columns with maximum sum of elements. >
+
+Question (58)  < Sum items in rows and columns of elements. >
+
+Question (59)  < How to sum diagonals of a Matrix. >
+
+Question (60)  < How to interchange the principal diagonals of matrix. >
+
+Question (61)  < How to sort columns of element by sorting the first row. >
+
+Question (62)  < How to check rows and columns that has particular element. >
+
+Question (63)  < How to generate beautiful Unicode. >
+
+Question (64)  < How to get prices of products. >
+
+Question (65)  < How to make list of dictionary using 2 Lists. >
+
+Question (66)  < How to delete dictionary item. >
+
+Question (67)  < Return value of 2 Arguments using function. >
+
+Question (68)  < How to fill List. >
+
+Question (69)  < How to get the Arithmetic mean of a List. >
+
+Question (70)  < How to generate Fibonacci sequence using Function. >
+
+Question (71)  < How to get Fibonacci value using recursion. >
+
+Question (72)  < How to get Factorial using recursion. >
+
+Question (73)  < How to get the LCM. >
+
+Question (74)  < How to Reverse Word Sequence. >
+
+Question (75)  < How to search for Binary numbers. >
+
+Question (76)  < How to make a ring shift or recycle items of a list. >
+
+Question (77)  < How to Read Text. >
+
+Question (78)  < How to use Read Method. >
+
+Question (79)  < How to use ReadLine Method. >
+
+Question (80)  < How to use ReadLines Method. >
+
+Question (81)  < How to Write to File. >
+
+Question (82)  < How to Read Text from File to Dictionary. >
+
+Question (83)  < How to count Number of Lines, Words and Letters in a text file. >
+
+Question (84)  < How to capture String Errors. >
+
+Question (85)  < How to check for non existence of number. >
+
+Question (86)  < How to display Error message for non existed files. >
+
+Question (87)  < How to get Division by Zero error. >
+
+Question (88)  < How to get Index out of Exception. >
+
+Question (89)  < How to Raise Exceptions. >
+
+Question (90)  < How to use classes and constructor. >
+
+Question (91)  < How to fill a list with natural Numbers. >
+
+Question (92)  < How to fill a list with Random Numbers. >
+
+Question (93)  < How to select Even Numbers from list. >
+
+Question (94)  < How to create List from Dictionary. >
+
+Question (95)  < How to unpack Matrix into one level list. >
+
+Question (96)  < Read Data from file into Lines and Characters. >
+
+Question (97)  < How to calculate the Orbital speed. >
+
+Question (98)  < Sum of a Random of 3 digit numbers. >
+
+Question (99)  < How to calculate the Area and Perimeter of Right Angle Triangle. >
+
+Question (100) < How to get Total Surface Area of a Cylinder. >
